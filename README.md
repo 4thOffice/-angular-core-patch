@@ -1,3 +1,5 @@
+> ⚠ This repo is deprecated in favour of: https://github.com/4thOffice/angular-core-builds-patch
+
 Angular
 =======
 
